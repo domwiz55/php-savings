@@ -1,0 +1,16 @@
+<?php
+$monday = "don't spend";
+$wednesday = "spend";
+$friday = "spend";
+
+if($monday == "don't spend") {
+  echo "move into savings";
+}
+
+if($wednesday = "spend") { 
+  echo "no takeway";
+}
+
+if($friday = "spend") {
+  echo "takeway";
+}
